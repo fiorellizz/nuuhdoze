@@ -1,4 +1,4 @@
-from backend.loja.serializer.bebida_serializer import BebidaSerializer
+from loja.serializer.bebida_serializer import BebidaSerializer
 from rest_framework import viewsets
 from .models import Bebida
 
